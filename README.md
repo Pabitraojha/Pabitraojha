@@ -67,5 +67,6 @@ Here are a few projects I have worked on:
 
 ## 📫 Contact Me
 - LinkedIn: www.linkedin.com/in/pabitra-ojha
-- Twitter: [Your Twitter](https://twitter.com/your-twitter)
+- Twitter: @PabitraOjh2058
 - Email: pabitraojha442@gmail.com
+- Leetcode: PABITRA_OJHA
